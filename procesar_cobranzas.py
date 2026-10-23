@@ -107,6 +107,9 @@ def procesar_datos(ruta_csv):
         elif m > umbral_outlier:
             motivo = f"Outlier extremo (> ${umbral_outlier:,.2f})"
 
+        if motivo is None and pd.isna(row["fecha_venc_dt"]):
+            motivo = "Fecha de vencimiento faltante o ilegible"    
+
         if motivo:
             auditoria.append({
                 "id_factura": row["id_factura"],
