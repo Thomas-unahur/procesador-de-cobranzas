@@ -1,0 +1,30 @@
+id_factura,cliente,monto,fecha_vencimiento,estado_pago
+FAC-1001,Logística del Oeste S.A.,450000.00,2026-08-15,PENDIENTE
+FAC-1002,Distribuidora Norte SRL,125000.50,2026-09-10,Pendiente
+FAC-1003,Logística del Oeste S.A.,310000.00,2026-09-28,Pendiente
+FAC-1004,Agropecuaria Pampa S.A.,890000.00,2026-10-05,PAGADO
+FAC-1005,Metalúrgica Sur Hnos,215000.00,2026-10-01,Pendiente
+FAC-1006,Comercial Andina S.A.,178500.00,2026-11-05,Pendiente
+FAC-1007,Distribuidora Norte SRL,98000.00,2026-07-20,pendiente 
+FAC-1008,Grupo Textil Austral,540000.00,2026-08-30,Pagado
+FAC-1009,Metalúrgica Sur Hnos,330000.00,2026-09-15,PENDIENTE
+FAC-1010,Agropecuaria Pampa S.A.,410000.00,2026-09-25,Pendiente
+FAC-1011,Servicios Integrales GBA,162000.00,2026-10-12,Pendiente
+FAC-1012,Frigorífico Regional S.A.,720000.00,2026-08-05,Pendiente
+FAC-1013,Frigorífico Regional S.A.,680000.00,2026-09-05,Pendiente
+FAC-1014,Comercial Andina S.A.,245000.00,2026-10-10,Pendiente
+FAC-1015,Grupo Textil Austral,195000.00,2026-10-18,Pendiente
+FAC-1016,Servicios Integrales GBA,88000.00,2026-11-12,Pendiente
+FAC-1017,Insumos Industriales BA,512000.00,2026-09-01,Pendiente
+FAC-1018,Insumos Industriales BA,290000.00,2026-10-15,PAGADO
+FAC-1019,  logística del oeste s.a. ,"$ 185.000,00",15/09/2026,  pendiente
+FAC-1020,DISTRIBUIDORA NORTE SRL,"$ 210.500,75",02/10/2026,Pendiente
+FAC-1021,  Metalúrgica Sur Hnos  ,145000,20/08/2026,Vencido
+FAC-1001,Logística del Oeste S.A.,450000.00,2026-08-15,PENDIENTE
+FAC-1009,Metalúrgica Sur Hnos,330000.00,2026-09-15,PENDIENTE
+FAC-1022,Agropecuaria Pampa S.A.,410000.00,2026-09-25,Pendiente
+FAC-1023,Frigorífico Regional S.A.,-150000.00,2026-09-20,Pendiente
+FAC-1024,Comercial Andina S.A.,0.00,2026-10-01,Pendiente
+FAC-1025,Servicios Integrales GBA,985000000.00,2026-09-18,Pendiente
+FAC-1026,Grupo Textil Austral,,2026-10-03,Pendiente
+FAC-1027,Insumos Industriales BA,3.50,2026-09-12,Pendiente
